@@ -12,10 +12,9 @@ e.g cake.
 4. **Step-by-Step Instructions:** Follow easy-to-read, step-by-step instructions for each recipe.
 
 ## Snapshot :-
-![recipe 1](https://github.com/user-attachments/assets/555c9ab2-017a-45f3-b102-f11a90fa6701)
-![recipe2](https://github.com/user-attachments/assets/05128c0f-cf16-4abd-aaff-eed08812ffd8)
-![recipe3](https://github.com/user-attachments/assets/98ab579c-2c44-4285-80ce-a55cf3c0d247)
-
+![recipe 1](https://github.com/user-attachments/assets/65be3b72-c4a6-4702-8ace-1925735f9b01)
+![recipe2](https://github.com/user-attachments/assets/91127eb5-b329-4e27-9a13-afd51e1e9cf0)
+![recipe3](https://github.com/user-attachments/assets/1717ba7a-ab0f-43af-b9d9-722cc29d58bb)
 ## Technologies Used:-
 * HTML5
 * CSS
